@@ -1,5 +1,4 @@
-![Alt Text](Img\Ramon De Paula Developer.gif)
-
+![Alt Text](https://www.canva.com/design/DAERnRdzMc4/bi1zuafvCq_2RewA6TlFbQ/watch?utm_content=DAERnRdzMc4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
 <p align="center">
