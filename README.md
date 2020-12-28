@@ -1,8 +1,5 @@
-![Alt Text](https://www.canva.com/design/DAERnRdzMc4/bi1zuafvCq_2RewA6TlFbQ/watch?utm_content=DAERnRdzMc4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-
 <p align="center">
-  <img align="center" src="Img\Welcome.png" height="300" width="600" />
+  <img align="center" src="Img\Ramon De Paula Developer.gif" height="300" width="600" />
 </p>
 
 <br>
@@ -30,11 +27,22 @@
   <img align="center" height="150" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RamonRossaDePaula&layout=compact&show_icons=true&theme=merko"/>
 </p>
 
-</details>
+</details> 
+
 
 <hr/>
+
+
+<br>
+<details>
+<summary>
+  <strong>🔎 Find me on </strong>
+</summary>
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/ramonrossadepaula/" target="_blank">
     <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="ramon-rossa-de-paula" height="65" width="65" />
   </a>
 </p>
+
+</details>
