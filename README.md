@@ -1,3 +1,7 @@
+![Alt Text](Img\Ramon De Paula Developer.gif)
+
+
+
 <p align="center">
   <img align="center" src="Img\Welcome.png" height="300" width="600" />
 </p>
