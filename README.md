@@ -1,4 +1,4 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonRossaDePaula&hide=contribs,prs&title_color=000000&text_color=DEG,000000&bg_color=DEG,063312,006400,7F9D00,FFD700,B3B774,6495ED,B3B774,FFD700,7F9D00,006400,063312)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonRossaDePaula&hide=contribs,prs&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRossaDePaula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRossaDePaula&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
