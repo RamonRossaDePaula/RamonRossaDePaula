@@ -2,9 +2,9 @@
 
 ## Github Stats  
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=RamonRossaDePaula&theme=chartreuse-dark&show_icons=true" align="center" width="40%"/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RamonRossaDePaula&theme=chartreuse-dark&show_icons=true" align="center" width="40%"/>
   
-<div align="right"><img src="https://github-readme-streak-stats.herokuapp.com?user=RamonRossaDePaula&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" align="center" width="40%"/>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=RamonRossaDePaula&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" align="center" width="40%"/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonRossaDePaula&theme=chartreuse-dark&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
