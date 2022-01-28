@@ -2,7 +2,7 @@
 
 ## Github Stats  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRossaDePaula&theme=chartreuse-dark&show_icons=true&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonRossaDePaula&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RamonRossaDePaula&theme=chartreuse-dark&show_icons=true" align="center" width="40%"/>
   
