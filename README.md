@@ -2,6 +2,9 @@
 
 ## Github Stats  
 
+<div align="center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RamonRossaDePaula&theme=chartreuse-dark&show_icons=true" align="center" width="40%"/>
   
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=RamonRossaDePaula&theme=chartreuse-dark&hide_border=false&date_format=j%20M%5B%20Y%5D" align="center" width="40%"/>
