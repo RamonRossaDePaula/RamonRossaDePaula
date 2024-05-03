@@ -11,7 +11,7 @@
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"  width=45% src="https://github-readme-streak-stats.herokuapp.com?username=RamonRossaDePaula&theme=chartreuse-dark&hide_border=false&count_private=true&date_format=j%20M%5B%20Y%5D" />
+  <img align="center"  width=45% src="https://github-readme-streak-stats.herokuapp.com?user=RamonRossaDePaula&theme=chartreuse-dark&hide_border=false&count_private=true&date_format=j%20M%5B%20Y%5D" />
 </a>
   
   
@@ -20,7 +20,7 @@
  
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"  width=45% src="https://github-readme-stats.vercel.app/api/wakatime?username=@RamonRossaDePaula&theme=chartreuse-dark&count_private=true" />
+  <img align="center"  width=45% src="https://github-readme-stats.vercel.app/api/wakatime?username=RamonRossaDePaula&theme=chartreuse-dark&count_private=true" />
 </a>
   
   
