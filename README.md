@@ -7,7 +7,7 @@
 
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=45% src="https://github-readme-stats.vercel.app/api?username=RamonRossaDePaula&theme=chartreuse-dark&show_icons=true&count_private=true" />
+  <img align="center" width=45% src="https://github-readme-stats.vercel.app/api?user=RamonRossaDePaula&theme=chartreuse-dark&show_icons=true&count_private=true" />
 </a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
