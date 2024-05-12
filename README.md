@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrdepaula&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrdepaula&layout=compact&theme=chartreuse-dark&)
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center"  width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrdepaula&theme=chartreuse-dark&layout=compact&count_private=false" />
