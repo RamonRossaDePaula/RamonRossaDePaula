@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/rrdepaula">
-  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=rrdepaula&theme=chartreuse-dark&show_icons=true&count_private=true" />
+  <img align="center" width=42% src="https://github-readme-stats.vercel.app/api?username=rrdepaula&theme=chartreuse-dark&show_icons=true&count_private=true" />
   <img align="center" width=45% src="https://github-readme-streak-stats.herokuapp.com?user=rrdepaula&theme=chartreuse-dark&hide_border=false&count_private=true&date_format=j%20M%5B%20Y%5D" />
   <img align="center" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrdepaula&layout=compact&count_private=true&theme=chartreuse-dark" />
 </a> 
