@@ -1,11 +1,5 @@
 <div align="center">
 
-## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrdepaula)
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=rrdepaula)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rrdepaula)
-<br/>  
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width=45% src="https://github-readme-stats.vercel.app/api?username=rrdepaula&theme=chartreuse-dark&show_icons=true&count_private=false" />
 </a>
