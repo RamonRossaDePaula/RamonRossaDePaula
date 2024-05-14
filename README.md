@@ -49,7 +49,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
+<a href="https://github.com/rrdepaula">
+  <img width=11% src="https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript" />
+</a> 
 
 <br/>
 <br/>
@@ -60,7 +62,7 @@
 <br/>  
   
 <a href="https://www.linkedin.com/in/ramonrossadepaula" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin"/>
 </a>  
    
 </div>                                                   
