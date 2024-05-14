@@ -36,17 +36,24 @@
 
 <p> 
   
-![logo linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
 </p>
 
 [![logo jupyter](https://img.shields.io/badge/Jupyter-ED8B00?style=for-the-badge&logo=jupyter&logoColor=white)](#)
 ![logo Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 
-<br/>
-<br/>
-<br/>
 
+<p> <strong> WIP </strong> </p> 
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
+
+<br/>
+<br/>
+<br/>
   
   ## Connect with me  
 
