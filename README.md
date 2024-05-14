@@ -1,18 +1,18 @@
-
+<div align="center">
+  
   ## Welcome!
 
-<div align="center">
+<br/>
 
 <a href="https://github.com/rrdepaula">
-  <img align="center" width=42% src="https://github-readme-stats.vercel.app/api?username=rrdepaula&theme=chartreuse-dark&show_icons=true&count_private=true" />
-
-&nbsp;
-
-  <img align="center" width=45% src="https://github-readme-streak-stats.herokuapp.com?user=rrdepaula&theme=chartreuse-dark&hide_border=false&count_private=true&date_format=j%20M%5B%20Y%5D" />
-  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrdepaula&layout=compact&count_private=true&theme=chartreuse-dark" />
+  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=rrdepaula&theme=chartreuse-dark&show_icons=true&count_private=true" />
+  &nbsp; &nbsp;
+  <img align="center" width=42% src="https://github-readme-streak-stats.herokuapp.com?user=rrdepaula&theme=chartreuse-dark&hide_border=false&count_private=true&date_format=j%20M%5B%20Y%5D" />
+  <br/>
+  <br/>
+  <img align="center" width=35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrdepaula&layout=compact&count_private=true&theme=chartreuse-dark" />
 </a> 
 
-<br/>
 <br/>
 <br/>
 <br/>
@@ -20,6 +20,8 @@
 <div align="center">
 
   ## Skills  
+  
+<br/>
 
 [![logo python](https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white)](#)
 [![logo html5](https://img.shields.io/badge/HTML-ed5700?style=for-the-badge&logo=html5&logoColor=white)](#)
@@ -32,7 +34,6 @@
 ![logo Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 
-<br/>
 <br/>
 <br/>
 <br/>
